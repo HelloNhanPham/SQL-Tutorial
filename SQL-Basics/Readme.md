@@ -5,4 +5,4 @@ Table of contents
 4. Non relational databases and their types
 5. What is SQL?
 6. SQL data types
-7. 
+7. SQL operators
