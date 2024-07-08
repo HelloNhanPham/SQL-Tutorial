@@ -6,3 +6,4 @@ Table of contents
 5. What is SQL?
 6. SQL data types
 7. SQL operators
+8. SQL commands
