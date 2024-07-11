@@ -5,3 +5,4 @@ Table of contents:
 4. Alter (rename)
 5. Drop and truncate
 6. Copy, duplicate and backup
+7. Temporary table
