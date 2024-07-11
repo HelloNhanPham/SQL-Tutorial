@@ -3,4 +3,5 @@ This content introducing database and giving the lessons to use SQL to do some t
 
 Table of contents:
 1. SQL basics
-3. Database in SQL
+2. Database in SQL
+3. Table in SQL
