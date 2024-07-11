@@ -2,4 +2,5 @@ Table of contents:
 1. Create table
 2. Drop table
 3. Delete statement
-4. ALTER (rename)
+4. Alter (rename)
+5. Drop and truncate
