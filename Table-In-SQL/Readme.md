@@ -6,3 +6,4 @@ Table of contents:
 5. Drop and truncate
 6. Copy, duplicate and backup
 7. Temporary table
+8. ALter - Version 2
