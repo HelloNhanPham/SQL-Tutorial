@@ -4,3 +4,4 @@ Table of contents:
 3. Delete statement
 4. Alter (rename)
 5. Drop and truncate
+6. Copy, duplicate and backup
