@@ -5,3 +5,4 @@ Table of contents:
 1. SQL basics
 2. Database in SQL
 3. Table in SQL
+4. SQL queries
