@@ -9,3 +9,4 @@
 8. Insert multiple rows
 9. Insert into statement
 10. Update statement
+11. Delete statement
