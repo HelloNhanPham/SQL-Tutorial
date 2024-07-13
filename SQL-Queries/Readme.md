@@ -6,4 +6,5 @@
 5. Select random
 6. Select in statement
 7. Select date
-8. Insert Multiple Rows
+8. Insert multiple rows
+9. Insert into statement
