@@ -4,3 +4,4 @@
 3. Select first
 4. Select last
 5. Select random
+6. Select in statement
