@@ -8,3 +8,4 @@
 7. Select date
 8. Insert multiple rows
 9. Insert into statement
+10. Update statement
