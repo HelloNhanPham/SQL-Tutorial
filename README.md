@@ -8,3 +8,4 @@ This content introducing database and giving the lessons to use SQL to do some t
 2. Database in SQL
 3. Table in SQL
 4. SQL queries
+5. SQL clauses
