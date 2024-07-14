@@ -10,3 +10,4 @@
 9. Insert into statement
 10. Update statement
 11. Delete statement
+12. Delete duplicate rows
