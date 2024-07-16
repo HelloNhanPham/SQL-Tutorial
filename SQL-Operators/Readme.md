@@ -1,2 +1,2 @@
 # Table Of Contents
-1. AND and OR Operators
+1. AND and OR operators
