@@ -2,3 +2,4 @@
 1. Where clause
 2. With clause
 3. Having clause
+4. Order by clause
