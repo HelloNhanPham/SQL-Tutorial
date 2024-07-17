@@ -8,3 +8,4 @@
 7. UNION operator
 8. UNION ALL operator
 9. EXCEPT operator
+10. BETWEEN operator
