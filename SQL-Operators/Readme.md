@@ -4,3 +4,4 @@
 3. IN operator
 4. NOT operator
 5. NOT EQUAL operator
+6. IS NULL operator
