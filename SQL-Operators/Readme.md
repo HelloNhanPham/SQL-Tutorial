@@ -6,3 +6,4 @@
 5. NOT EQUAL operator
 6. IS NULL operator
 7. UNION operator
+8. UNION ALL operator
