@@ -3,3 +3,4 @@
 2. LIKE operator
 3. IN operator
 4. NOT operator
+5. NOT EQUAL operator
