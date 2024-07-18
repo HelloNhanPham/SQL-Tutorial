@@ -10,3 +10,4 @@ This content introducing database and giving the lessons to use SQL to do some t
 4. SQL Queries
 5. SQL Clauses
 6. SQL Operators
+7. SQL Aggregate Functions
