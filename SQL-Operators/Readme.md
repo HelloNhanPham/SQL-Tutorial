@@ -12,3 +12,4 @@
 11. ALL and ANY operators
 12. INTERSECT operator
 13. EXISTS operator
+14. CASE statement
