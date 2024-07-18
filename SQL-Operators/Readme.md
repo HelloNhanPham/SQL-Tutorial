@@ -10,3 +10,4 @@
 9. EXCEPT operator
 10. BETWEEN operator
 11. ALL and ANY operators
+12. Intersect operator
