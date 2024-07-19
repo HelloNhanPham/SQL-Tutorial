@@ -4,3 +4,4 @@
 3. PRIMARY KEY constraint
 4. FOREIGN KEY constraint
 5. COMPOSITE KEY constraint
+6. ALTERNATE KEY
