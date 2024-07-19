@@ -6,3 +6,4 @@
 5. COMPOSITE KEY constraint
 6. ALTERNATE KEY
 7. CHECK constraint
+8. DEFAULT constraint
