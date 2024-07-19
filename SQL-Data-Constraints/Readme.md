@@ -2,3 +2,4 @@
 1. NOT NULL constraint
 2. UNIQUE constraint
 3. PRIMARY KEY constraint
+4. FOREIGN KEY constraint
