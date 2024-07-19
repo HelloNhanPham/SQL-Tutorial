@@ -5,3 +5,4 @@
 4. FOREIGN KEY constraint
 5. COMPOSITE KEY constraint
 6. ALTERNATE KEY
+7. CHECK constraint
