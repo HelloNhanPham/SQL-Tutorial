@@ -11,3 +11,4 @@ This content introducing database and giving the lessons to use SQL to do some t
 5. SQL Clauses
 6. SQL Operators
 7. SQL Aggregate Functions
+8. SQL Data Constraints
