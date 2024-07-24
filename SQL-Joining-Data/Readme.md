@@ -3,3 +3,4 @@
 2. Outer Join
 3. Left Join
 4. Right Join
+5. Full Join
