@@ -5,3 +5,4 @@
 4. Right Join
 5. Full Join
 6. Cross Join
+7. Self Join
