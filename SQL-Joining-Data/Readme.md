@@ -4,3 +4,4 @@
 3. Left Join
 4. Right Join
 5. Full Join
+6. Cross Join
