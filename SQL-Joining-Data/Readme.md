@@ -8,3 +8,4 @@
 7. SELF JOIN
 8. UPDATE with JOIN
 9. DELETE JOIN
+10. Recursive JOIN in SQL
