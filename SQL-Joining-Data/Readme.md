@@ -6,3 +6,4 @@
 5. Full Join
 6. Cross Join
 7. Self Join
+8. UPDATE with JOIN
