@@ -3,3 +3,4 @@ SQL functions offer an efficient and versatile approach to data analysis. By lev
 # Table Of Content
 1. Date and Time functions in SQL
 2. String functions
+3. Numeric functions
