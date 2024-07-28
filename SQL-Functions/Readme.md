@@ -6,3 +6,4 @@ SQL functions offer an efficient and versatile approach to data analysis. By lev
 3. Numeric functions
 4. Statistical functions
 5. JSON functions
+6. Conversion functions
