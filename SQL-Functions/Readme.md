@@ -8,3 +8,4 @@ SQL functions offer an efficient and versatile approach to data analysis. By lev
 5. JSON functions
 6. Conversion functions
 7. Datatype functions
+8. LTRIM function
