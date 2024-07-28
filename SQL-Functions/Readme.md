@@ -5,3 +5,4 @@ SQL functions offer an efficient and versatile approach to data analysis. By lev
 2. String functions
 3. Numeric functions
 4. Statistical functions
+5. JSON functions
