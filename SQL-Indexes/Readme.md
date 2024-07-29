@@ -6,3 +6,4 @@ Indexes work by organizing specific columns in a particular order, allowing the 
 3. Drop index
 4. Show index
 5. Unique index
+6. Clustered index and Non-clustered index
