@@ -32,4 +32,5 @@ So, if you have basic knowledge of RDBMS, then this SQL tutorial provides you wi
 9. SQL Joining Data
 10. SQL Functions
 11. SQL Views
-12. Indexes
+12. SQL Indexes
+13. SQL Miscellaneous Topics
