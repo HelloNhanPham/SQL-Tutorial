@@ -3,3 +3,4 @@ In this miscellaneous section, you will encounter concepts like stored procedure
 # Table Of Content
 1. Wildcards operators
 2. Comments
+3. Pivot and Unpivot 
