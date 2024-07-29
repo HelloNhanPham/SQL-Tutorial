@@ -4,3 +4,4 @@ Views makes easier for anyone to access the information they need, without getti
 1. Create view
 2. Drop view
 3. Update view
+4. Rename view
