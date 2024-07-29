@@ -34,3 +34,11 @@ So, if you have basic knowledge of RDBMS, then this SQL tutorial provides you wi
 11. SQL Views
 12. SQL Indexes
 13. SQL Miscellaneous Topics
+
+## Applications of SQL
+In data-driven industries where managing databases is very important in regular, Here are some important SQL applications.
+- To support client/server architecture, software engineers use SQL to establish the connection between the back-end and front-end.
+- SQL can also be used in the 3-tier architecture of a client, an application server, and a database.
+- SQL is used as a Data Definition Language(DDL) in which we can independently create a database, define the structure, use it, and discard it when its work is done.
+- SQL is used as a Data Manipulation Language(DML) in which we can enter data, modify data, and extract data.
+- SQL is used as a Data Control Language(DCL) it specifies how we can protect our database against corruption and misuse.
