@@ -3,3 +3,4 @@ Views makes easier for anyone to access the information they need, without getti
 # Table Of Content
 1. Create view
 2. Drop view
+3. Update view
