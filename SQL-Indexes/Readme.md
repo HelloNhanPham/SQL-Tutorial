@@ -3,3 +3,4 @@ Indexes work by organizing specific columns in a particular order, allowing the 
 # Table Of Content
 1. Indexes
 2. Create index
+3. Drop index
