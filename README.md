@@ -31,3 +31,4 @@ So, if you have basic knowledge of RDBMS, then this SQL tutorial provides you wi
 8. SQL Data Constraints
 9. SQL Joining Data
 10. SQL Functions
+11. SQL Views
