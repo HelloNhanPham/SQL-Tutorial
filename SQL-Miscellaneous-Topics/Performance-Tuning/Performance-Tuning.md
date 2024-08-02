@@ -184,7 +184,7 @@ Your query should run query more frequently by using the following:
 ## Index Tuning
 When choosing and building indexes, database tuning includes index tuning. The index tuning objective is to speed up query processing. It can be challenging to employ indexes in dynamic contexts with numerous ad-hoc searches scheduled in advance. The queries that are based on indexes are subject to index tweaking, and the indexes are generated automatically as needed. Users of the database do not need to take any specific activities to tune the index.
 
-> Indexes can be used to increase a database’s speed and query performance. Index tuning is the process of improving the index selection.
+<code>Indexes can be used to increase a database’s speed and query performance. Index tuning is the process of improving the index selection.</code>
 
 ### Advantages of Index Tuning
 The performance of queries and databases can be improved by using the Index tuning wizard. It accomplishes this using the following methods:
