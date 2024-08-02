@@ -54,6 +54,7 @@ Many SQL developers use the SELECT * shortcut to query all of the data in a tabl
 
 For example:
 
+> [!NOTE]
 > **Inefficient**
 >  
 > **Select** * **From** GeeksTable;
@@ -65,6 +66,7 @@ For example:
 ### Avoid SELECT DISTINCT
 It is practical to get rid of duplicates from a query by using SELECT DISTINCT. To get separate results, SELECT DISTINCT GROUPs for every field in the query. However, a lot of computing power is needed to achieve this goal. Furthermore, data may be inaccurately classified to a certain extent. Choose more fields to produce distinct results instead of using SELECT DISTINCT.
 
+> [!NOTE]
 > **Inefficient and inaccurate**
 >
 > **SELECT DISTINCT** FirstName, LastName, State **FROM** GeeksTable;
@@ -76,6 +78,7 @@ It is practical to get rid of duplicates from a query by using SELECT DISTINCT. 
 ### Create  queries with INNER JOIN (not WHERE or cross join)
 WHERE clause joins are preferred by some SQL developers, as in the examples below:
 
+> [!NOTE]
 > **SELECT** GFG1.CustomerID, GFG1.Name, GFG1.LastSaleDate
 >
 > **FROM** GFG1, GFG2
@@ -90,6 +93,7 @@ The database has performed 100 times more work than was necessary, therefore thi
 
 ### To prevent creating a Cartesian Join, use INNER JOIN instead
 
+> [!NOTE]
 > **SELECT** GFG1.CustomerID, GFG1.Name, GFG1.LastSaleDate
 >
 > **FROM** GFG1
@@ -106,6 +110,7 @@ A successful query will only retrieve the necessary records from the database. H
 
 Assuming 500 sales were made in 2019, for instance, query to find how many sales were made per client that year.
 
+> [!NOTE]
 > **SELECT** GFG1.CustomerID, GFG1.Name, GFG1.LastSaleDate
 >
 > **FROM** GFG1
@@ -122,6 +127,7 @@ The GFG2 table would be queried to retrieve 1,000 sales records, which would the
 
 WHERE clauses, in contrast, set a limit on how many records can be retrieved:
 
+> [!NOTE]
 > **SELECT** GFG1.CustomerID, GFG1.Name, GFG1.LastSaleDate
 > 
 > **FROM** GFG1 **INNER JOIN** GFG2
@@ -137,12 +143,14 @@ Wildcards enable the broadest search when searching unencrypted material, such a
 
 Think about using this search and find cities that start with “No”:
 
+> [!NOTE]
 > **SELECT** City **FROM** GeekTable **WHERE** City **LIKE** ‘%No%’
 
 The expected results are Noida, and Noopur, which will be returned by this query. Unexpected results will also be produced.
 
 A better inquiry would be:
 
+> [!NOTE]
 > **SELECT** City **FROM** GeekTable **WHERE** City **LIKE** ‘No%’
 
 ### Use LIMIT to sample query results
@@ -150,6 +158,7 @@ Use a LIMIT statement to check if the results will be pleasing and useful before
 
 We will look at a maximum of 10 rows in the 2019 sales query from above:
 
+> [!NOTE]
 > **SELECT** GFG1.CustomerID, GFG1.Name, GFG1.LastSaleDate
 >
 > **FROM** GFG1
@@ -184,7 +193,7 @@ Your query should run query more frequently by using the following:
 ## Index Tuning
 When choosing and building indexes, database tuning includes index tuning. The index tuning objective is to speed up query processing. It can be challenging to employ indexes in dynamic contexts with numerous ad-hoc searches scheduled in advance. The queries that are based on indexes are subject to index tweaking, and the indexes are generated automatically as needed. Users of the database do not need to take any specific activities to tune the index.
 
-<code>Indexes can be used to increase a database’s speed and query performance. Index tuning is the process of improving the index selection.</code>
+> Indexes can be used to increase a database’s speed and query performance. Index tuning is the process of improving the index selection.
 
 ### Advantages of Index Tuning
 The performance of queries and databases can be improved by using the Index tuning wizard. It accomplishes this using the following methods:
