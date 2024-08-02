@@ -54,9 +54,9 @@ Many SQL developers use the SELECT * shortcut to query all of the data in a tabl
 
 For example:
 
-<code> **Inefficient**
-<code> 
-<code> **Select** * **From** GeeksTable;
+> **Inefficient**
+>  
+> **Select** * **From** GeeksTable;
 >
 > **Efficient**
 >
