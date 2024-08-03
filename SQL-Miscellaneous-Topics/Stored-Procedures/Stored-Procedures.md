@@ -106,3 +106,19 @@ The stored procedure takes the parameter “Country” and returns a list of cus
 >
 >     EXEC GetCustomersByCountry @Country = 'Sri lanka';
 
+**Note**: You will need to make sure that the user account has the necessary privileges to create a database. You can try logging in as a different user with administrative privileges or contact the database administrator to grant the necessary privileges to your user account. If you are using a cloud-based database service, make sure that you have correctly configured the user account and its permissions.
+
+**Output**
+| CustomerName | Contact Name |
+|--------------|--------------|
+|    Naveen    |    Tulasi    |
+
+## Important Points About SQL Stored Procedures
+
+- A stored procedure is a prepared SQL code that you can save, so the code can be reused over and over again.
+- Stored procedures allow for code that is used repeatedly to be saved on the database and run from there, rather than from the client. This provides a more modular approach to database design.
+- Since stored procedures are compiled and stored in the database, they are highly efficient. SQL Server compiles each stored procedure once and then reutilizes the execution plan. This leads to tremendous performance boosts when stored procedures are called repeatedly.
+- Stored procedures provide better security to your data. Users can execute a stored procedure without needing to execute any of the statements directly. Therefore, a user can be granted permission to execute a stored procedure without having any permissions on the underlying tables.
+- Stored procedures can reduce network traffic and latency, boosting application performance. A single call to a stored procedure can execute many statements.
+- Stored procedures have better support for error handling.
+- Stored procedures can be used to provide advanced database functionality, such as modifying data in tables, and encapsulating these changes within database transactions.
