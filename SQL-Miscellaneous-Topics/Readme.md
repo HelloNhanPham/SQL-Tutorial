@@ -6,4 +6,5 @@ In this miscellaneous section, you will encounter concepts like stored procedure
 3. Pivot and Unpivot 
 4. Injection
 5. Hosting
-6. Performance Tuning
+6. Performance tuning
+7. Stored procedures
