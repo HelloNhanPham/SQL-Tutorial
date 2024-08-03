@@ -9,3 +9,4 @@ In this miscellaneous section, you will encounter concepts like stored procedure
 6. Performance tuning
 7. Stored procedures
 8. Transactions
+9. Subquery
