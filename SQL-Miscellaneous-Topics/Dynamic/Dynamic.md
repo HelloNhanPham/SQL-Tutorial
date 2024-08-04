@@ -1,5 +1,7 @@
 # Dynamic SQL
 
+**Prerequisite** – Difference between Static and Dynamic
+
 __Dynamic SQL__ is a programming technique that could be used to write SQL queries during runtime. Dynamic SQL could be used to create general and flexible SQL queries.
 
 Syntax for dynamic SQL is to make it string as below:
