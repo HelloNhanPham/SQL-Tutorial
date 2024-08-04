@@ -10,3 +10,4 @@ In this miscellaneous section, you will encounter concepts like stored procedure
 7. Stored procedures
 8. Transactions
 9. Subquery
+10. Sequences
