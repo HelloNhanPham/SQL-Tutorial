@@ -17,4 +17,5 @@ In this miscellaneous section, you will encounter concepts like stored procedure
 14. Cursor
 15. Common table expressions
 16. Database tuning
-17. Dynamic
+17. Difference between Static and Dynamic
+18. Dynamic
