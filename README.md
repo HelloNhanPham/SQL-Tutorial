@@ -35,6 +35,39 @@ So, if you have basic knowledge of RDBMS, then this SQL tutorial provides you wi
 12. SQL Indexes
 13. SQL Miscellaneous Topics
 
+## Important Note
+
+> [!IMPORTANT]
+>
+>     In SQL, keywords are not case-sensitive, meaning "__update__" is equivalent to "__UPDATE__".
+
+## Important Commands
+
+Here is the list of some important SQL Commands:
+
+| Command                | Description                                               |
+|------------------------|-----------------------------------------------------------|
+| SELECT                 | Used to retrieve data from a database.                   |
+| INSERT                 | Adds new records or rows to a table.                     |
+| UPDATE                 | Modifies existing records in a table.                    |
+| DELETE                 | Removes records from a table.                            |
+| CREATE TABLE           | Creates a new table in the database.                     |
+| ALTER TABLE            | Modifies an existing table structure.                    |
+| DROP TABLE             | Deletes a table from the database.                       |
+| CREATE INDEX           | Creates an index on a table column to speed up data retrieval. |
+| DROP INDEX             | Removes an index from a table.                           |
+| CREATE VIEW            | Creates a virtual table based on the result of a SQL statement. |
+| DROP VIEW              | Deletes a view from the database.                        |
+| INSERT INTO SELECT     | Inserts data from one table into another based on a query. |
+| TRUNCATE TABLE         | Removes all records from a table, but keeps the table structure intact. |
+| ALTER TABLE ADD CONSTRAINT | Adds a constraint to a table after it has been created. |
+| GRANT                  | Gives specific privileges to database users.              |
+| REVOKE                 | Removes specific privileges from database users.         |
+| COMMIT                 | Saves all changes made since the last commit.            |
+| ROLLBACK               | Discards all changes made since the last commit.         |
+| BEGIN TRANSACTION      | Starts a new transaction.                                |
+| SET TRANSACTION        | Sets characteristics for the transaction.                |
+
 ## Applications of SQL
 In data-driven industries where managing databases is very important in regular, Here are some important SQL applications.
 - To support client/server architecture, software engineers use SQL to establish the connection between the back-end and front-end.
