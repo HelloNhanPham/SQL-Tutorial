@@ -14,3 +14,4 @@ In this miscellaneous section, you will encounter concepts like stored procedure
 11. Auto increment
 12. Window functions
 13. Date & Time
+14. Cursor
