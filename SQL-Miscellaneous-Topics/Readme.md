@@ -11,4 +11,5 @@ In this miscellaneous section, you will encounter concepts like stored procedure
 8. Transactions
 9. Subquery
 10. Sequences
-11. Auto Increment
+11. Auto increment
+12. Window functions
