@@ -13,3 +13,4 @@ In this miscellaneous section, you will encounter concepts like stored procedure
 10. Sequences
 11. Auto increment
 12. Window functions
+13. Date & Time
